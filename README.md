@@ -1,5 +1,7 @@
-# Hackboard #
+# LIVEboard #
 
-A notice board for hackfests. Built on the Tornado webserver.
+Real-time scorecard display board during live cricket matches. 
 
-*Status*: Under development. I'll post a more detailed README when done.
+Forked from hackboard built for hackfestson a Tornado webserver.
+
+*Status*: Under development. 
